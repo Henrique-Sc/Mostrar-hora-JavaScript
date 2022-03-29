@@ -5,4 +5,5 @@ body {
 
 button {
     padding: 7.5px;
+    cursor: pointer;
 }
